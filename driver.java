@@ -5,7 +5,7 @@ public class driver {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// This was done completely on my own and a lookup of how to declare a ArrayList of <Characters>
+		
         String s1="";
         String s2="AAAA";
         String s3="ABCDv";
